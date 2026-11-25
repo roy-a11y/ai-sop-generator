@@ -1,0 +1,3 @@
+# Messy input: Agent refund request (sample, fictional)
+
+agents ask for refund mostly for flight cancellations, they send a mail or message to their relationship manager, RM then checks the booking status and whether the airline allows a refund, refund amount depends on airline rules and our own fee, then RM sends it to the refunds team, they process it in the system and the refund goes back to the agent wallet, takes few days, sometimes more for international. if airline has not refunded us yet we dont pay the agent? not sure, i think we pay first in some cases for big agents. agents keep asking for status so we should share a ticket number

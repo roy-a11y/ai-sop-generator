@@ -1,0 +1,3 @@
+# Messy input: Booking failure handling (sample, fictional)
+
+so when a booking fails the agent usually calls us or sometimes whatsapps, then someone from support checks if the money got deducted from the agent wallet, if yes we have to tell finance, sometimes the supplier confirms the booking late so we wait a bit, but if its been more than like an hour or two then we cancel and refund, also should inform the agent, oh and sometimes the PNR is generated but ticket not issued which is different, in that case we call the airline desk i think. there is also a sheet where we note these failures but not everyone fills it
